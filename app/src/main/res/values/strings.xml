@@ -1,9 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <resources>
-    <string name="app_name">Standard Weight</string>
-    <string name="heightText">Your Height</string>
-    <string name="calcBtn">Calc</string>
-    <string name="weightText">Calculate Standard</string>
-    <string name="stdWeight">Standard Weight</string>
-    <string name="errorMsg">Enter Number</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">標準体重</string>
+    <string name="heightText">あなたの身長</string>
+    <string name="calcBtn">計算</string>
+    <string name="weightText">標準体重を計算します</string>
+    <string name="stdWeight">標準体重：</string>
+    <string name="errorMsg">身長を数値で入力してください</string>
+    <string name="action_settings">設定</string>
 </resources>
